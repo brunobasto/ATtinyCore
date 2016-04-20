@@ -3,21 +3,21 @@
     {
       "name": "ATTinyCore Bruno Basto",
       "maintainer": "Spence Konde",
-      "websiteURL": "https://github.com/SpenceKonde/ATTinyCore",
+      "websiteURL": "https://github.com/brunobasto",
       "email": "",
       "help": {
-        "online": "https://github.com/SpenceKonde"
+        "online": "https://github.com/brunobasto"
       },
       "platforms": [
         {
-          "name": "ATTinyCore",
+          "name": "ATTinyCore Bruno Basto",
           "architecture": "avr",
           "version": "1.1.0",
           "category": "Contributed",
           "help": {
-            "online": "https://github.com/SpenceKonde"
+            "online": "https://github.com/brunobasto"
           },
-          "url": "https://github.com/SpenceKonde/ATTinyCore/archive/v1.1.0.tar.gz",
+          "url": "https://raw.githubusercontent.com/brunobasto/ATtinyCore/master/ATTinyCore-1.1.0.tar.gz",
           "archiveFileName": "ATTinyCore-1.1.0.tar.gz",
           "checksum": "SHA-256:db2914be21f03c5f39e3dfea1d1d03f9168b7ed91a49a32def53eaaa82626dd7",
           "size": "345765",
